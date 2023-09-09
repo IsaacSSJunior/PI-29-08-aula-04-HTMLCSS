@@ -1,0 +1,32 @@
+div#a {
+    background-color: #bbff00;
+    width: 500px;
+    height: 500px;
+}
+
+
+div#b {
+    background-color: #dcb700;
+    width: 50%;
+    height: 50%;
+}
+
+p {
+    color: white;
+    background-color: #FF6347;
+    font-size: 30px;
+    font-family: Georgia, serif;
+    font-weight: bold;
+}
+
+div#c {
+    width: 50%;
+    height: 50vh;
+    background-color: #ff00f2;
+}
+
+div#d {
+    width: 75vw;
+    height: 50%;
+    background-color: #FF4500;
+}
